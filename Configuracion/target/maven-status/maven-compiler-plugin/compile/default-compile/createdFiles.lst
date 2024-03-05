@@ -1,0 +1,6 @@
+com\mycompany\configuracion\ConfiguracionSistema.class
+com\mycompany\configuracion\Main.class
+com\mycompany\configuracion\Configuracion.class
+com\mycompany\configuracion\ConfiguracionHoraria.class
+com\mycompany\configuracion\RecursoPersistente.class
+com\mycompany\configuracion\ConfiguracionUsuario.class
